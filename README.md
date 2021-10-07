@@ -2,7 +2,7 @@
 모두의연구소 AIFFEL에서 진행했던 연습 프로젝트입니다.
 
 
-|   |    date    | project  | Field |
+|   |    Date    | Project  | Field |
 |---|:----------:|------------| -------------- | 
 | E01 | 2021-09-23 | [가위바위보 이미지 분류 학습](E01/E01.ipynb)     | Image classification, CNN | 
 | E02 | 2021-09-28 | [scikit-learn 데이터 지도학습](E02/E02.ipynb)  | scikit-learn |
