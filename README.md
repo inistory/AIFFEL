@@ -9,3 +9,5 @@
 | E03 | 카메라 스티커앱 만들기 |face detection  | [code](E03/E03.ipynb)    | 
 | E04 | 작사가 인공지능 만들기 |RNN,LSTM | [code](Exploration_4/E4.ipynb) | 
 | E05 | 닮은 꼴 연예인 찾기 | Image embedding, FaceNet, Triplet Loss | [code](E05/E05.ipynb) |
+| E06 | 집 값 예측 | Kaggle, Regression |code|
+
