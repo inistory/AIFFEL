@@ -10,4 +10,4 @@
 | E04 | 작사가 인공지능 만들기 |RNN,LSTM | [code](E04/E04.ipynb) | 
 | E05 | 닮은 꼴 연예인 찾기 | Image embedding, FaceNet, Triplet Loss | [code](E05/E05.ipynb) |
 | E06 | 집 값 예측 | Kaggle, Regression |code|
-
+| E07 | 영화리뷰 텍스트 감정분석 | NLP, sentiment analysis |code|
