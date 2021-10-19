@@ -11,3 +11,4 @@
 | E05 | 닮은 꼴 연예인 찾기 | Image embedding, FaceNet, Triplet Loss | [code](E05/E05.ipynb) |
 | E06 | 집 값 예측 | Kaggle, Regression |[code](E06/E06.ipynb)|
 | E07 | 영화리뷰 텍스트 감정분석 | NLP, sentiment analysis |code|
+| E08 | 인물사진을 만들어 보자 | Image embedding, |code|
