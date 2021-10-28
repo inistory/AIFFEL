@@ -11,8 +11,10 @@
 | E05 | 닮은 꼴 연예인 찾기 | Image embedding, FaceNet, Triplet Loss | [code](E05/E05.ipynb) |
 | E06 | 집 값 예측 | Kaggle, Regression |[code](E06/E06.ipynb)|
 | E07 | 영화리뷰 텍스트 감정분석 | NLP, sentiment analysis |[code](E07/E07.ipynb)|
-| E08 | 인물 사진 만들기 | Image Segmentation |[code](E07/E07.ipynb)|
-| E09 | Movielens 영화 추천 | Recommender System, Matrix Factorization, CSR Matrix |[code](E08/E08.ipynb)|
+| E08 | 인물 사진 만들기 | Image Segmentation |[code](E08/E08.ipynb)|
+| E09 | Movielens 영화 추천 | Recommender System, Matrix Factorization, CSR Matrix |[code](E09/E089.ipynb)|
+| E10 | 뉴스기사 요약하기 | NLP, text summarization, seq2seq  |[code](E10/E10.ipynb)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTQ4MTE2Ml19
+eyJoaXN0b3J5IjpbLTE0NjM3MjMxMDIsLTQ2NTU1MDYzNCwxOD
+IxNDgxMTYyXX0=
 -->
