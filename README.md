@@ -14,6 +14,7 @@
 | E08 | 인물 사진 만들기 | Image Segmentation |[code](E08/E08.ipynb)|
 | E09 | Movielens 영화 추천 | Recommender System, Matrix Factorization, CSR Matrix |[code](E09/E089.ipynb)|
 | E10 | 뉴스기사 요약하기 | NLP, text summarization, seq2seq  |[code](E10/E10.ipynb)|
+| E11 | 뉴스기사 요약하기 | NLP, text summarization, seq2seq  |[code](E11/E11.ipynb)|
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE0NjM3MjMxMDIsLTQ2NTU1MDYzNCwxOD
 IxNDgxMTYyXX0=
