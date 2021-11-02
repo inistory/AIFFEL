@@ -17,34 +17,29 @@
 	- 임베딩의 품질이 좋을수록 태스크의 성능이 더 좋다!
 
 
-### 1) 데이터셋 준비
+### 데이터셋
 - 네이버 영화리뷰 데이터
 https://github.com/e9t/nsmc
 
 
-### 2) 데이터로더 구성
+### 목차
+1.  Data 준비와 확인
+2.  Data loader 구성하기
+3. 모델 구성을 위한 데이터 분석 및 가공
+4.  validation set 구성
+5.  모델구성 : LSTM, 
+	 - 모델 훈련 개시
+	 - Loss, Accuracy 그래프 시각화
+	 - Embedding layer 분석
+	 - 한국어 Word2Vec 임베딩 활용하여 성능개선
+ 
 
 
-
-### 3) 모델구성을 위한 데이터 분석 및 가공
-
-
-### 4) 모델구성 및 validation set 구성
-
-### 5) 모델 훈련 개시
-
-
-### 6) Loss, Accuracy 그래프 시각화
-
-
-### 7) 학습된 Embedding 레이어 분석
-
-
-### 8) 한국어 Word2Vec 임베딩 활용하여 성능개선
-- https://github.com/Kyubyong/wordvectors
+### References
+https://github.com/Kyubyong/wordvectors
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDcyNTQ2Myw1MzkyOTIxNTcsMTE2OT
-I2MDE3NCwyNDc4NDk0NTcsNzk4NjgxNTY1LDczMDk5ODExNl19
-
+eyJoaXN0b3J5IjpbNDQ2MzYxNDc1LDEwMjk3MzY0MzksLTg2MD
+cyNTQ2Myw1MzkyOTIxNTcsMTE2OTI2MDE3NCwyNDc4NDk0NTcs
+Nzk4NjgxNTY1LDczMDk5ODExNl19
 -->
