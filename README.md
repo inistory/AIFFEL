@@ -17,7 +17,7 @@
 | E11 | 폐렴 진단기 성능개선 | CV  |[code](E11/E11.ipynb)|
 | E12 | 다음에 볼 영화 예측하기 | Recommender System  |[code](E12/E12.ipynb)|
 | E13 | CIFAR-10 이미지 생성하기 | CV, GAN  |[code](E13/E13.ipynb)|
-| E14 | 주식 예측에 도전해 보자 | time series  |[code](E14/E14.ipynb)|
+| E14 | 주식 예측에 도전해 보자, ARIMA | time series  |[code](E14/E14.ipynb)|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDU0MjYxNjZdfQ==
+eyJoaXN0b3J5IjpbMTM1NDc1NzczMiwtMjE0NTQyNjE2Nl19
 -->
