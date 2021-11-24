@@ -137,7 +137,8 @@
 - **인코더-디코더 어텐션**은 셀프 어텐션과는 달리, Query가 디코더의 벡터인 반면에 Key와 Value가 인코더의 벡터라는 특징, 이 부분이 인코더가 입력 문장으로부터 정보를 디코더에 전달하는 과정
 - 인코더의 **셀프 어텐션**과 마찬가지로 디코더의 **셀프 어텐션**, **인코더-디코더 어텐션** 두 개의 어텐션 모두 **스케일드 닷 프로덕트 어텐션**을 **멀티 헤드 어텐션**으로 병렬적으로 수행
 - 이렇게 구현한 디코더의 층은 **임베딩 층(Embedding layer)** 과 **포지셔널 인코딩(Positional Encoding)** 을 연결하고, 사용자가 원하는 만큼 디코더 층을 쌓아 트랜스포머의 디코더가 완성
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODEwNjA2MywtMTM4Mzg2NzY3MCw3Mz
-A5OTgxMTZdfQ==
--->
+
+
+## References
+- 데이터
+https://github.com/songys/Chatbot_data/blob/master/ChatbotData.csv
