@@ -1,4 +1,4 @@
-<center> AIFFEL </center>
+# <center> AIFFEL </center>
 
 <center>모두의연구소 AIFFEL에서 진행했던 연습 프로젝트입니다.</center>
 
@@ -38,6 +38,6 @@
 | E02 | 멋진 단어사전 만들기 |- |  [code](Going_Deeper/G02/G02.ipynb) | 
 | E03 | 텍스트의 분포로 벡터화하기 |- |  [code](Going_Deeper/G03/G03.md) | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzkxNzMxMywtMjAzMTI3NTcxNSwyMD
+eyJoaXN0b3J5IjpbLTg4OTE2ODcwMCwtMjAzMTI3NTcxNSwyMD
 kxNDYxODAwLDEzNTQ3NTc3MzIsLTIxNDU0MjYxNjZdfQ==
 -->
