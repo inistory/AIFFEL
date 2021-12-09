@@ -1,7 +1,8 @@
 # AIFFEL
 모두의연구소 AIFFEL에서 진행했던 연습 프로젝트입니다.
 
-## EXPLORATION
+### EXPLORATION 🚀
+---
 |   |    Name    | Field  | Code |
 |---|:----------:|:------------:| :--------------: | 
 | E01 | 가위바위보 이미지 분류 학습 |Image classification, CNN |  [code](EXPLORATION/E01/E01.ipynb)     | 
@@ -24,13 +25,14 @@
 | E18 | 문자를 읽을 수 있는 딥러닝 | NLP |[code](EXPLORATION/E18/E18.ipynb)|
 
 
-## Going Deeper (NLP)
+### Going Deeper (NLP)  🚩
+--- 
 |   |    Name    | Field  | Code |
 |---|:----------:|:------------:| :--------------: | 
 | E01 | 텍스트 데이터 다루기 |Tokenizer |  [code](Going_Deeper/G01/G01.ipynb) | 
 | E02 | 멋진 단어사전 만들기 |- |  [code](Going_Deeper/G02/G02.ipynb) | 
 | E03 | 텍스트의 분포로 벡터화하기 |- |  [code](Going_Deeper/G03/G03.ipynb) | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzEyNzU3MTUsMjA5MTQ2MTgwMCwxMz
-U0NzU3NzMyLC0yMTQ1NDI2MTY2XX0=
+eyJoaXN0b3J5IjpbLTcwNzU1MjAwMCwtMjAzMTI3NTcxNSwyMD
+kxNDYxODAwLDEzNTQ3NTc3MzIsLTIxNDU0MjYxNjZdfQ==
 -->
