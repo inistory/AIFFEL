@@ -39,11 +39,11 @@
 --- 
 |   |    Name    | Field  | Code |
 |---|:----------:|:------------:| :--------------: | 
-| E01 | 텍스트 데이터 다루기 |Tokenizer |  [code](Going_Deeper/G01/G01.md) | 
+| E01 | 텍스트 데이터 다루기 |Tokenizer |  [note](Going_Deeper/G01/G01.md) | 
 | E02 | 멋진 단어사전 만들기 |- |  [code](Going_Deeper/G02/G02.ipynb) | 
-| E03 | 텍스트의 분포로 벡터화하기 |- |  [code](Going_Deeper/G03/G03.md) | 
+| E03 | 텍스트의 분포로 벡터화하기 |- |  [note](Going_Deeper/G03/G03.md) | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM4NDY4NSwtMzU3MjY0MjAxLC04OD
-kxNjg3MDAsLTIwMzEyNzU3MTUsMjA5MTQ2MTgwMCwxMzU0NzU3
-NzMyLC0yMTQ1NDI2MTY2XX0=
+eyJoaXN0b3J5IjpbMTcwMjE2NDA2MSwtMTMzMzg0Njg1LC0zNT
+cyNjQyMDEsLTg4OTE2ODcwMCwtMjAzMTI3NTcxNSwyMDkxNDYx
+ODAwLDEzNTQ3NTc3MzIsLTIxNDU0MjYxNjZdfQ==
 -->
