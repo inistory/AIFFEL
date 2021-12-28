@@ -46,13 +46,13 @@
 | E05 | 워드 임베딩 |- |  [code](Going_Deeper/G05/G05.md) | 
 | E06 | 임베딩 내 편향성 알아보기 |- |  [note](Going_Deeper/G06/G06.ipynb) | 
 | E07 | Seq2seq와 Attention |`Seq2seq` `Attention`|  [note](Going_Deeper/G07/G07.md) | 
-| E08 | Seq2seq으로 번역기 만들기 |`Seq2seq`|  [code](Going_Deeper/G08/G08.ipynb) | 
+| E08 |Seq2seq으로 번역기 만들기 |`Seq2seq`|  [code](Going_Deeper/G08/G08.ipynb) | 
 | E09 | Transformer가 나오기 까지 |`Transformer`|  [note](Going_Deeper/G09/G09.md) | 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1NDExNDQyLC0xODc4NjExMDM5LDE3MD
-IxNjQwNjEsLTEzMzM4NDY4NSwtMzU3MjY0MjAxLC04ODkxNjg3
-MDAsLTIwMzEyNzU3MTUsMjA5MTQ2MTgwMCwxMzU0NzU3NzMyLC
-0yMTQ1NDI2MTY2XX0=
+eyJoaXN0b3J5IjpbLTE5OTczOTQwOTAsODI1NDExNDQyLC0xOD
+c4NjExMDM5LDE3MDIxNjQwNjEsLTEzMzM4NDY4NSwtMzU3MjY0
+MjAxLC04ODkxNjg3MDAsLTIwMzEyNzU3MTUsMjA5MTQ2MTgwMC
+wxMzU0NzU3NzMyLC0yMTQ1NDI2MTY2XX0=
 -->
