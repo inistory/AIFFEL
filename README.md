@@ -39,9 +39,15 @@
 --- 
 |   |    Name    | type  | Code |
 |---|:----------:|:------------:| :--------------: | 
+<<<<<<< HEAD
 | E01 | 텍스트 데이터 다루기 |`Tokenizer` |  [note](Going_Deeper/G01/G01.md) | 
 | E02 | 멋진 단어사전 만들기 |- |  [code](Going_Deeper/G02/G02.ipynb) | 
 | E03 | 텍스트의 분포로 벡터화하기 |- |  [note](Going_Deeper/G03/G03.md) | 
+=======
+| E01 | 텍스트 데이터 다루기 |Tokenizer |  [note](Going_Deeper/GD01/GD01.md) | 
+| E02 | 멋진 단어사전 만들기 |sentencepiece |  [code](Going_Deeper/GD02/GD02.ipynb) | 
+| E03 | 텍스트의 분포로 벡터화하기 |- |  [note](Going_Deeper/GD03/GD03.md) | 
+>>>>>>> 335fc4ddb64a195cad128cea44432134aaa67322
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4Nzg2MTEwMzksMTcwMjE2NDA2MSwtMT
 MzMzg0Njg1LC0zNTcyNjQyMDEsLTg4OTE2ODcwMCwtMjAzMTI3
