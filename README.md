@@ -39,18 +39,20 @@
 --- 
 |   |    Name    | type  | Code |
 |---|:----------:|:------------:| :--------------: | 
-<<<<<<< HEAD
 | E01 | 텍스트 데이터 다루기 |`Tokenizer` |  [note](Going_Deeper/G01/G01.md) | 
 | E02 | 멋진 단어사전 만들기 |- |  [code](Going_Deeper/G02/G02.ipynb) | 
 | E03 | 텍스트의 분포로 벡터화하기 |- |  [note](Going_Deeper/G03/G03.md) | 
-=======
-| E01 | 텍스트 데이터 다루기 |Tokenizer |  [note](Going_Deeper/GD01/GD01.md) | 
-| E02 | 멋진 단어사전 만들기 |sentencepiece |  [code](Going_Deeper/GD02/GD02.ipynb) | 
-| E03 | 텍스트의 분포로 벡터화하기 |- |  [note](Going_Deeper/GD03/GD03.md) | 
->>>>>>> 335fc4ddb64a195cad128cea44432134aaa67322
+| E04 | 뉴스 카테고리 다중분류 |- |  [note](Going_Deeper/G04/G04.ipynb) | 
+| E05 | 워드 임베딩 |- |  [code](Going_Deeper/G05/G05.md) | 
+| E06 | 임베딩 내 편향성 알아보기 |- |  [note](Going_Deeper/G06/G06.ipynb) | 
+| E07 | Seq2seq와 Attention |`Seq2seq` `Attention`|  [note](Going_Deeper/G07/G07.md) | 
+| E08 | Seq2seq으로 번역기 만들기 |`Seq2seq`|  [code](Going_Deeper/G08/G08.ipynb) | 
+| E09 | Transformer가 나오기 까지 |`Transformer`|  [note](Going_Deeper/G09/G09.md) | 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzg2MTEwMzksMTcwMjE2NDA2MSwtMT
-MzMzg0Njg1LC0zNTcyNjQyMDEsLTg4OTE2ODcwMCwtMjAzMTI3
-NTcxNSwyMDkxNDYxODAwLDEzNTQ3NTc3MzIsLTIxNDU0MjYxNj
-ZdfQ==
+eyJoaXN0b3J5IjpbODI1NDExNDQyLC0xODc4NjExMDM5LDE3MD
+IxNjQwNjEsLTEzMzM4NDY4NSwtMzU3MjY0MjAxLC04ODkxNjg3
+MDAsLTIwMzEyNzU3MTUsMjA5MTQ2MTgwMCwxMzU0NzU3NzMyLC
+0yMTQ1NDI2MTY2XX0=
 -->
